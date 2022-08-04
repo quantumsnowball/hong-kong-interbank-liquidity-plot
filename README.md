@@ -1,0 +1,3 @@
+# Hong Kong Interbank Liquidity
+
+Many Hong Kong people are concerned whether the USD/HKD peg can be kept. Here is an important indicator about whether the peg can be hold. This is not financial advices and the data source is from HKMA's website. 
